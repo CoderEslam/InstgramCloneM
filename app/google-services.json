@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853905168262",
+    "project_id": "instgramclonemitch",
+    "storage_bucket": "instgramclonemitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853905168262:android:2737b95ce7d97db52c7e07",
+        "android_client_info": {
+          "package_name": "com.doubleclick.instgramclonemitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853905168262-5balg14r5e5rdlmsa4q04gc7n4uqm80j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpikVlckdhmGagg_MvPS63WtPGgAzDQCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853905168262-5balg14r5e5rdlmsa4q04gc7n4uqm80j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
